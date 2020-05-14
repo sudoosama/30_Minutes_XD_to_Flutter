@@ -1,4 +1,4 @@
-package com.example.creditcardxd
+package com.example.creditflutterxd
 
 import io.flutter.embedding.android.FlutterActivity
 
