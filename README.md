@@ -4,7 +4,7 @@ Tried Adobe XD new plugin and its take me only 30minute for this beautiful UI
 
 <img src="https://github.com/OsamaxD1/30_Minutes_XD_to_Flutter/blob/master/images/gitimage2.jpg" height="450" width="250"> <img src="https://github.com/OsamaxD1/30_Minutes_XD_to_Flutter/blob/master/images/gitimage1.jpg" height="450" width="250"> 
 
-## STEP to use flutter plugin:
+## STEP to use flutter plugin in Adobe XD.:
 
 1) In Adobe XD go to ```Plugins > Discover Plugin```, and install Flutter plugin. 
 2) Make project of flutter in your IDE.
