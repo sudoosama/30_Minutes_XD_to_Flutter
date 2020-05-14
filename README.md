@@ -15,5 +15,5 @@ Tried Adobe XD new plugin and its take me only 30minute for this beautiful UI
 7) Start Exporting and Fixing.
 
 ## Created and Maintain by
-* [Hassan Osama](https://github.com/OsamaxD1) - Follow me on [Twitter](https://twitter.com/whatosama) 
+* [Hassan Osama](https://github.com/OsamaxD1) - Follow me on [Twitter](https://twitter.com/sudoosama) 
 * Connect me on [LinkedIn](https://www.linkedin.com/in/hassan-osama-464a76196/) 
