@@ -1,7 +1,8 @@
-# Credit Card Simple UI
+# Adobe XD To Flutter Result
 Tried Adobe XD new plugin and its take me only 30minute for this beautiful UI
 
-<img src="https://github.com/OsamaxD1/30_Minutes_XD_to_Flutter/tree/master/images/gitimage2.jpg" height="450" width="250"> <img src="https://github.com/OsamaxD1/30_Minutes_XD_to_Flutter/tree/master/images/gitimage1.jpg" height="450" width="250">
+
+<img src="https://github.com/OsamaxD1/30_Minutes_XD_to_Flutter/blob/master/images/gitimage2.jpg" height="450" width="250"> <img src="https://github.com/OsamaxD1/30_Minutes_XD_to_Flutter/blob/master/images/gitimage1.jpg" height="450" width="250"> 
 
 A new Flutter project.
 
